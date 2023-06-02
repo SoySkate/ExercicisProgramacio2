@@ -1,0 +1,7 @@
+C:\Users\formacio3\source\repos\ExercicisProgramacio2\ExercicisProgramacio2\bin\Debug\ExercicisProgramacio2.exe.config
+C:\Users\formacio3\source\repos\ExercicisProgramacio2\ExercicisProgramacio2\bin\Debug\ExercicisProgramacio2.exe
+C:\Users\formacio3\source\repos\ExercicisProgramacio2\ExercicisProgramacio2\bin\Debug\ExercicisProgramacio2.pdb
+C:\Users\formacio3\source\repos\ExercicisProgramacio2\ExercicisProgramacio2\obj\Debug\ExercicisProgramacio2.csproj.AssemblyReference.cache
+C:\Users\formacio3\source\repos\ExercicisProgramacio2\ExercicisProgramacio2\obj\Debug\ExercicisProgramacio2.csproj.CoreCompileInputs.cache
+C:\Users\formacio3\source\repos\ExercicisProgramacio2\ExercicisProgramacio2\obj\Debug\ExercicisProgramacio2.exe
+C:\Users\formacio3\source\repos\ExercicisProgramacio2\ExercicisProgramacio2\obj\Debug\ExercicisProgramacio2.pdb
